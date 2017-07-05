@@ -11,6 +11,7 @@ library(shiny)
 library(leaflet)
 library(shinythemes)
 library(timevis)
+library(DT)
 
 # There are several methods for laying out a Shiny UI that give you varying degrees of
 # flexibility. In this example I have used a fluid layout which allows you to position
